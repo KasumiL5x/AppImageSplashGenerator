@@ -6,7 +6,7 @@ This script requires at least Bash 4. If you are on macOS, you can upgrade Bash 
 
 To check your Bash version, you can run the `bash --version` command.
 
-You wil also need `imagemagick` to perform the image manipulations, which can also be obtained from [homebrew](https://formulae.brew.sh/formula/imagemagick).
+You will also need `imagemagick` to perform the image manipulations, which can also be obtained from [homebrew](https://formulae.brew.sh/formula/imagemagick).
 
 ### Usage
 Download this repository and extract `convert.sh` to a convenient location.
